@@ -1,0 +1,16 @@
+ignoredFile.txt 
+*.html
+*.exe
+*.com
+*.rar
+*.iso
+*.class
+*.so
+*.dll
+*.zip
+*.7z
+*.o
+.Trashes
+.idea/
+.target/
+.out/
