@@ -1,16 +1,21 @@
-ignoredFile.txt 
-*.html
-*.exe
-*.com
+# Packages 
 *.rar
 *.iso
-*.class
-*.so
-*.dll
+*.jar
+*.dmg
+*.tar
 *.zip
-*.7z
-*.o
-.Trashes
-.idea/
-.target/
-.out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+
+# Compiled source 
+*.exe
+*.com
+*.class
+
+# Logs 
+*.sql
+*.log
